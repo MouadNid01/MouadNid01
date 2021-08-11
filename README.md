@@ -2,8 +2,8 @@
   <h3> Hi folks! 👋<br>I am Mouad Nid-Abdellah<br>I'm a fifth year Information Systems And Big Data Engineering Student<br>Data Science Intern</h2>
   <h4> <a href="https://www.linkedin.com/in/mouad-nid/">Linkedin</a> • <a href="mailto:nidabdellah.mouad@gmail.com">Email</a></h3>
  </div>
- 
- ### Programming Languages and Tools:
+ <hr style="border:2px solid gray"> </hr>
+ <h3>Programming Languages and Tools: </h3>
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="jupyter" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="flask" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
