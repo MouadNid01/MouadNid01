@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> Hi folks! 👋<br>I am Mouad Nid-Abdellah<br>I'm a fifth year Information Systems And Big Data Engineering Student<br>Data Science Intern</h2>
+  <h3> Hi folks! 👋<br>I am Mouad Nid-Abdellah<br>I'm an Engineering Student in Information Systems And Big Data<br>Currently a Data Science Intern</h2>
   <h4> <a href="https://www.linkedin.com/in/mouad-nid/">Linkedin</a> • <a href="mailto:nidabdellah.mouad@gmail.com">Email</a></h3>
  </div>
  <hr style="border:2px solid gray"> </hr>
